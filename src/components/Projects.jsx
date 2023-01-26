@@ -12,9 +12,15 @@ function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Ismar is a skilled developer who specializes in building
+            applications using a combination of SQL, C#/.NET, and React. He has
+            a strong understanding of database management and is able to design
+            and implement efficient and effective data storage solutions. Ismar
+            is also experienced in using C#/.NET to create robust, scalable
+            applications and has a good knowledge of React for developing user
+            interfaces. He is able to work independently and as part of a team,
+            and is dedicated to delivering high-quality software that meets the
+            needs of users.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

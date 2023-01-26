@@ -11,11 +11,11 @@ function About() {
             <br className="hidden lg:inline-block" /> Welcome to my portfolio
           </h1>
           <p className="mb-8 leading-relaxed">
-            Ismar is a highly skilled and motivated Software Engineer from San
-            Fernando, California. He served in the United States Army where he
-            complete their Basic Leader's Course and earned several medals for
-            his service as an Airborne Infantryman. After transitioning to the
-            tech industry, Ismar has honed his skills in SQL, C#/.NET, and
+            Ismar is a highly proficient and motivated Software Engineer from
+            San Fernando, California. He served in the United States Army where
+            he completed their Basic Leader's Course and earned several medals
+            for his service as an Airborne Infantryman. After transitioning to
+            the tech industry, Ismar has honed his skills in SQL, C#/.NET, and
             React, becoming an expert in these areas. He has experience working
             with a wide range of technologies and is known for his ability to
             quickly learn new skills and adapt to new environments.
