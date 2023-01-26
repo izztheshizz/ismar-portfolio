@@ -11,14 +11,14 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Originally from San Fernando Valley CA. Ismar Salazar is currently a
-            Software Engineer who previously served in the United States Army as
-            an Airborne Infantryman. Where he completed Basic Airborne School,
-            the Basic Leader's Course and earned various medals for his
-            achievements. After honorably discharging from the military, Ismar
-            worked for a start-up as a Full Stack Software Engineer. Where he
-            developed skills including but not limited to SQL, C#/.NET and
-            React.
+            Ismar is a highly skilled and motivated Software Engineer from San
+            Fernando, California. He served in the United States Army as an
+            Airborne Infantryman and completed the Basic Leader's Course,
+            earning several medals for his service. With a strong background in
+            SQL, C#/.NET, and React, Ismar is well-versed in a variety of
+            programming languages and technologies. He is a dedicated and
+            hardworking individual who is committed to achieving success in his
+            field.
           </p>
           <div className="flex justify-center">
             <a
