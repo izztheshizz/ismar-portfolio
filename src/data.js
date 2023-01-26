@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "Mi-Vet",
     subtitle: "SQL, .NET, React",
-    description: `MiVet is a mobile/web application whose mission is to streamline equine veterinary care through technology.`,
+    description: `Mi-Vet is a mobile/web application whose mission is to streamline equine veterinary care through technology.`,
     image: "./MiVet-1.gif",
     link: "https://mivet.azurewebsites.net/",
   },
