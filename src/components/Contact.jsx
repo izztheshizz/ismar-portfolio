@@ -1,9 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 
-export default function Contact() {
-  const [name, setName] = React.useState("");
-  const [email, setEmail] = React.useState("");
-  const [message, setMessage] = React.useState("");
+function Contact() {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
 
   function encode(data) {
     return Object.keys(data)
@@ -125,3 +125,4 @@ export default function Contact() {
     </section>
   );
 }
+export default Contact;
