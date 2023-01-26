@@ -11,9 +11,14 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Originally from San Fernando Valley CA. Ismar Salazar is currently a
+            Software Engineer who previously served in the United States Army as
+            an Airborne Infantryman. Where he completed Basic Airborne School,
+            the Basic Leader's Course and earned various medals for his
+            achievements. After honorably discharging from the military, Ismar
+            worked for a start-up as a Full Stack Software Engineer. Where he
+            developed skills including but not limited to SQL, C#/.NET and
+            React.
           </p>
           <div className="flex justify-center">
             <a

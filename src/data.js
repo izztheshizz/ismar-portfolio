@@ -55,6 +55,6 @@ export const skills = [
   "React",
   "C#",
   ".NET Framework",
-  "MSSQL",
+  "Microsoft SQL Server",
   "Agile Methods",
 ];
