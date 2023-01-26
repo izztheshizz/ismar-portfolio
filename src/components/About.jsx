@@ -23,7 +23,7 @@ function About() {
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+              className="text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
             >
               Work With Me
             </a>

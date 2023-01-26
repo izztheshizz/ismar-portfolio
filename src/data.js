@@ -1,5 +1,6 @@
 export const projects = [
   {
+    id: 1,
     title: "Mi-Vet",
     subtitle: "SQL, .NET, React",
     description:
