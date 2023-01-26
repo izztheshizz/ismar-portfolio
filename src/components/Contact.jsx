@@ -70,11 +70,11 @@ function Contact() {
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
+            Let's discuss some opportunities
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            Send your name and email with a brief message and I'll get back to
+            you as soon as possible.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

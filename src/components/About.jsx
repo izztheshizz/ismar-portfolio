@@ -1,4 +1,5 @@
 import React from "react";
+import "../components/styles.css";
 
 function About() {
   return (
@@ -37,7 +38,7 @@ function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center"
             alt="hero"
             src="https://bit.ly/3kMWvjK"
             // src="./coding.svg"
