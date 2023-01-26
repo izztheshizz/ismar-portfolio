@@ -3,8 +3,7 @@ export const projects = [
     id: 1,
     title: "Mi-Vet",
     subtitle: "SQL, .NET, React",
-    description:
-      "MiVet is a mobile/web application whose mission is to streamline equine veterinary care through technology",
+    description: `MiVet is a mobile/web application whose mission is to streamline equine veterinary care through technology.`,
     image: "./miVet-2.gif",
     link: "https://mivet.azurewebsites.net/",
   },
@@ -52,6 +51,12 @@ export const testimonials = [
 ];
 
 export const skills = [
+  // { id: 1, skill: "JavaScript" },
+  // { id: 2, skill: "React" },
+  // { id: 3, skill: "C#" },
+  // { id: 4, skill: ".NET Framework" },
+  // { id: 5, skill: "Microsoft SQL Server" },
+  // { id: 6, skill: "Agile Methods" },
   "JavaScript",
   "React",
   "C#",

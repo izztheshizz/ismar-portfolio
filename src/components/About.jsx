@@ -23,7 +23,7 @@ function About() {
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+              className="text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg"
             >
               Work With Me
             </a>
@@ -37,7 +37,7 @@ function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center"
+            className="object-cover object-center rounded-full flex items-center justify-center"
             alt="hero"
             src="https://bit.ly/3kMWvjK"
             // src="./coding.svg"

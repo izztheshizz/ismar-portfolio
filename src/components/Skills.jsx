@@ -3,6 +3,23 @@ import React from "react";
 import { skills } from "../data";
 
 function Skills() {
+  // const renderSkills = (allSkills) => {
+  //   return allSkills.map(mapSkills);
+  // };
+
+  // const mapSkills = (skill) => {
+  //   return (
+  //     <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+  //       <div key={skill} className="p-2 sm:w-1/2 w-full">
+  //         <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+  //           <BadgeCheckIcon className="text-blue-400 w-6 h-6 flex-shrink-0 mr-4" />
+  //           <span className="title-font font-medium text-white">{skill}</span>
+  //         </div>
+  //       </div>
+  //     </div>
+  //   );
+  // };
+
   return (
     <section id="skills">
       <div className="container px-5 py-10 mx-auto">
@@ -30,6 +47,7 @@ function Skills() {
             </div>
           ))}
         </div>
+        {/* {renderSkills(skills)} */}
       </div>
     </section>
   );
