@@ -18,7 +18,7 @@ function Contact() {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "test", name, email, message }),
+      body: encode({ "form-name": "Contact Ismar", name, email, message }),
     })
       .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
@@ -116,7 +116,7 @@ function Contact() {
           </div>
           <button
             type="submit"
-            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+            className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
           >
             Submit
           </button>

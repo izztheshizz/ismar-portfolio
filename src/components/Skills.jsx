@@ -12,11 +12,10 @@ function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            After transitioning to the tech industry, Ismar has honed his skills
-            in SQL, C#/.NET, and React, becoming an expert in these areas. He
-            has experience working with a wide range of technologies and is
-            known for his ability to quickly learn new skills and adapt to new
-            environments.
+            With a strong background in SQL, C#/.NET, and React, Ismar is
+            well-versed in a variety of programming languages and technologies.
+            He is a dedicated and hardworking individual who is committed to
+            achieving success in his field.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
