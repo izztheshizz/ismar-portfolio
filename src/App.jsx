@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 
 function App() {
   return (
-    <main className="text-gray-200 bg-gradient-to-b from-gray-900 via-gray-700 to-gray-900 body-font">
+    <main className="text-gray-200 bg-gradient-to-b from-green-900 via-indigo-900 to-green-900 body-font">
       <Navbar />
       <About />
       <Projects />

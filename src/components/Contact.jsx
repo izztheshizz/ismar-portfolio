@@ -124,12 +124,23 @@ function Contact() {
           </div>
           <button
             type="submit"
-            className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg"
+            className="inline-flex text-white bg-indigo-700 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
           >
             Submit
           </button>
         </form>
       </div>
+      <label className="leading-relaxed mb-5">
+        Thank you to Reed Barger and
+        <a
+          className="text-green"
+          href="https://www.freecodecamp.org/news/build-portfolio-website-react/"
+          rel="noreferrer"
+        >
+          {" "}
+          freeCodeCamp.
+        </a>
+      </label>
     </section>
   );
 }
