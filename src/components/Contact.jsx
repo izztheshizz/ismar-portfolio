@@ -53,7 +53,7 @@ function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-blue-400 leading-relaxed">
+              <a className="text-green-400 leading-relaxed">
                 izmar4792@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
@@ -74,14 +74,14 @@ function Contact() {
           </h2>
           <p className="leading-relaxed mb-5">
             Send your name and email with a brief message and I'll get back to
-            you as soon as possible. In the meantime,
+            you as soon as possible. In the meantime, here's a copy of my
             <a
-              className="text-green"
+              className="underline text-gray-200 hover:text-white visited:text-green-600"
               href="https://docs.google.com/document/d/1Dn_lY9Twxi17IaxEXK47fvDpSG_GsFIoFTpTJLRAaWA/edit?usp=sharing"
               rel="noreferrer"
             >
               {" "}
-              here's a copy of my resume.
+              resume.
             </a>
           </p>
           <div className="relative mb-4">
@@ -131,15 +131,7 @@ function Contact() {
         </form>
       </div>
       <label className="leading-relaxed mb-5">
-        Thank you to Reed Barger and
-        <a
-          className="text-green"
-          href="https://www.freecodecamp.org/news/build-portfolio-website-react/"
-          rel="noreferrer"
-        >
-          {" "}
-          freeCodeCamp.
-        </a>
+        Thank you to Reed Barger and freeCodeCamp.
       </label>
     </section>
   );
