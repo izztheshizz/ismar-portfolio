@@ -45,7 +45,7 @@ function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                400 Burgundy St. <br />
+                <br />
                 Leesville, LA 71446
               </p>
             </div>
