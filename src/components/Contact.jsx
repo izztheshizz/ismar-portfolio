@@ -45,7 +45,7 @@ function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                <br />
+                {/* <br /> */}
                 Leesville, LA 71446
               </p>
             </div>
