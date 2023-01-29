@@ -18,7 +18,7 @@ function Contact() {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "Contact Ismar", name, email, message }),
+      body: encode({ "form-name": "test", name, email, message }),
     })
       .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
