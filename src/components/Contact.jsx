@@ -74,13 +74,12 @@ function Contact() {
           </h2>
           <p className="leading-relaxed mb-5">
             Send your name and email with a brief message and I'll get back to
-            you as soon as possible. In the meantime, here's a copy of my
+            you as soon as possible. In the meantime, here's a copy of my{" "}
             <a
               className="underline text-gray-200 hover:text-white visited:text-green-600"
               href="https://docs.google.com/document/d/1Dn_lY9Twxi17IaxEXK47fvDpSG_GsFIoFTpTJLRAaWA/edit?usp=sharing"
               rel="noreferrer"
             >
-              {" "}
               resume.
             </a>
           </p>
