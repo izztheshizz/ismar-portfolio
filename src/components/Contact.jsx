@@ -25,7 +25,7 @@ function Contact() {
   }
 
   return (
-    <section id="contact" className="relative">
+    <section id="contact" className="relative bg-gradient-to-r from-black">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
           <iframe
@@ -41,7 +41,7 @@ function Contact() {
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
+              <h2 className="title-font font-semibold  tracking-widest text-xs">
                 LOCATION
               </h2>
               <p className="mt-1">
@@ -50,13 +50,13 @@ function Contact() {
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
+              <h2 className="title-font font-semibold  tracking-widest text-xs">
                 EMAIL
               </h2>
               <a className="text-green-400 leading-relaxed">
                 izmar4792@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+              <h2 className="title-font font-semibold  tracking-widest text-xs mt-4">
                 PHONE
               </h2>
               <p className="leading-relaxed">{`(818) 573-8545`}</p>
@@ -69,14 +69,14 @@ function Contact() {
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
-          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+          <h2 className=" sm:text-4xl text-3xl mb-1 font-medium title-font">
             Let's discuss opportunities
           </h2>
           <p className="leading-relaxed mb-5">
             Send your name and email with a brief message and I'll get back to
             you as soon as possible. In the meantime, here's a copy of my{" "}
             <a
-              className="underline text-gray-200 hover:text-white visited:text-green-600"
+              className="underline  hover:text-white visited:text-green-600"
               href="https://docs.google.com/document/d/1Dn_lY9Twxi17IaxEXK47fvDpSG_GsFIoFTpTJLRAaWA/edit?usp=sharing"
               rel="noreferrer"
             >
@@ -84,7 +84,7 @@ function Contact() {
             </a>
           </p>
           <div className="relative mb-4">
-            <label htmlFor="name" className="leading-7 text-sm text-gray-200">
+            <label htmlFor="name" className="leading-7 text-sm ">
               Name
             </label>
             <input
@@ -96,7 +96,7 @@ function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label htmlFor="email" className="leading-7 text-sm text-gray-200">
+            <label htmlFor="email" className="leading-7 text-sm">
               Email
             </label>
             <input
@@ -108,10 +108,7 @@ function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label
-              htmlFor="message"
-              className="leading-7 text-sm text-gray-200"
-            >
+            <label htmlFor="message" className="leading-7 text-sm">
               Message
             </label>
             <textarea
@@ -129,7 +126,7 @@ function Contact() {
           </button>
         </form>
       </div>
-      <label className="leading-relaxed mb-5">
+      <label className="leading-relaxed mb-5 text-transparent">
         Thank you to Reed Barger and freeCodeCamp.
       </label>
     </section>

@@ -7,8 +7,12 @@ import Skills from "./components/Skills";
 // import Testimonials from "./components/Testimonials";
 
 function App() {
+  const backgroundImageStyle = {
+    backgroundImage: `url("space.jpg")`,
+    backgroundSize: `contain`,
+  };
   return (
-    <main className="text-gray-200 bg-gradient-to-b from-indigo-900 via-green-900 to-indigo-900 body-font">
+    <main className="App text-white " style={backgroundImageStyle}>
       <Navbar />
       <About />
       <Projects />
