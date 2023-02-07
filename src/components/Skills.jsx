@@ -27,10 +27,13 @@ function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            With a strong background in SQL, C#/.NET, and React, Ismar is
-            well-versed in a variety of programming languages and technologies.
-            He is a dedicated and hardworking individual who is committed to
-            achieving success in his field.
+            Ismar has a strong understanding of database management and is able
+            to design and implement efficient and effective data storage
+            solutions. Ismar is also experienced in using C#/.NET Core Web API
+            to create robust, scalable applications and has a good knowledge of
+            React for developing user interfaces. He is able to work
+            independently and as part of a team, and is dedicated to delivering
+            high-quality software that meets the needs of users.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

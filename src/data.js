@@ -30,7 +30,7 @@ export const skills = [
   "JavaScript",
   "React",
   "C#",
-  ".NET Framework",
+  ".NET Core Web API",
   "Microsoft SQL Server",
   "Agile Methods",
 ];

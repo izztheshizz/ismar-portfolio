@@ -39,15 +39,17 @@ function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Ismar is a skilled developer who specializes in building
-            applications using a combination of SQL, C#/.NET, and React. He has
-            a strong understanding of database management and is able to design
-            and implement efficient and effective data storage solutions. Ismar
-            is also experienced in using C#/.NET to create robust, scalable
-            applications and has a good knowledge of React for developing user
-            interfaces. He is able to work independently and as part of a team,
-            and is dedicated to delivering high-quality software that meets the
-            needs of users.
+            Ismar builds full-stack applications using React, .NET Core Web API,
+            and Microsoft SQL. He defines the data model for the application
+            using SQL and creates the necessary tables and relationships. Then,
+            he creates the back-end API by using .NET Core Web API to handle
+            incoming requests from the front-end, perform operations on the data
+            stored in the SQL database, and return the results. Next, he builds
+            the front-end user interface using React. This includes components
+            that interact with the back-end API to retrieve and display data, as
+            well as to perform updates and other operations. The React
+            components would make API calls using JavaScript to get data from
+            the back-end and render it to the user.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">{renderProjects(projects)}</div>
