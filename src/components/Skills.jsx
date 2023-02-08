@@ -27,12 +27,12 @@ function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            I possess a strong understanding of database management and have the
-            ability to design and implement efficient and effective data storage
-            solutions. I am experienced in using C#/.NET Core Web API to create
-            robust and scalable applications and have a good understanding of
-            React for developing user interfaces. I am able to work both
-            independently and as part of a team, and am dedicated to delivering
+            Ismar has a strong understanding of database management and is able
+            to design and implement efficient and effective data storage
+            solutions. Ismar is also experienced in using C#/.NET Core Web API
+            to create robust, scalable applications and has a good knowledge of
+            React for developing user interfaces. He is able to work
+            independently and as part of a team, and is dedicated to delivering
             high-quality software that meets the needs of users.
           </p>
         </div>
