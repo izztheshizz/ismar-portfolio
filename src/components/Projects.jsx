@@ -39,17 +39,17 @@ function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Ismar builds full-stack applications using React, .NET Core Web API,
-            and Microsoft SQL. He defines the data model for the application
-            using SQL and creates the necessary tables and relationships. Then,
-            he creates the back-end API by using .NET Core Web API to handle
-            incoming requests from the front-end, perform operations on the data
-            stored in the SQL database, and return the results. Next, he builds
-            the front-end user interface using React. This includes components
-            that interact with the back-end API to retrieve and display data, as
-            well as to perform updates and other operations. The React
-            components would make API calls using JavaScript to get data from
-            the back-end and render it to the user.
+            I develop comprehensive full-stack applications using React, .NET
+            Core Web API, and Microsoft SQL. I define the application's data
+            model using SQL, constructing the necessary tables and
+            relationships. I then create the back-end API using .NET Core Web
+            API to handle incoming front-end requests, manipulate data stored in
+            the SQL database, and return results. I also design the front-end
+            user interface using React, incorporating components that interact
+            with the back-end API to retrieve and display data, as well as carry
+            out updates and operations. The React components make API calls via
+            JavaScript to access data from the back-end and display it to the
+            user.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">{renderProjects(projects)}</div>
