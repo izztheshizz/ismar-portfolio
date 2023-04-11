@@ -7,6 +7,14 @@ export const projects = [
     image: "./MiVet-1.gif",
     link: "https://mivet.azurewebsites.net/",
   },
+  {
+    id: 2,
+    title: "Iz Media",
+    subtitle: "React, TailwindCSS, TMDB third-party API",
+    description: `Iz Media is a simple site to browse movies, tv shows and actors.`,
+    image: "./iz-media.gif",
+    // link: "https://mivet.azurewebsites.net/",
+  },
 ];
 
 export const testimonials = [
